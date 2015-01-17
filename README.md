@@ -1,1 +1,1 @@
-Word counter function for python 3.x. Returns the number of times n appears in a sentence/textfile. Feel free to use.
+Word counter function for python 3.x. Returns the number of times a given word appears in a sentence/textfile. Feel free to use. The function takes 2 parameters. Parameter 1 is your text document/sentence or whatever, and paramter 2 is the word whose occurances you want to count.
